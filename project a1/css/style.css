@@ -1,0 +1,22 @@
+*{margin: 0;padding: 0}
+.header{background-color: black;
+text-align: center;padding-top: 25px;
+padding-bottom: 25px;}
+a {text-decoration: none;}
+
+.header ul li {list-style: none;margin-right: 25px;
+ display: inline-block; text-transform: uppercase;}
+
+.header ul li a {color: cornsilk;}
+
+.newle{text-align: center;font-size: 50px;
+padding-top: 30px;padding-bottom: 30px}
+p{text-align: center;font-size: 22px;s}
+
+form {margin-left:30%}
+.i1{text-align: center;padding: 15px;width: 30%}
+.i2{text-align: center;padding: 15px;width: 30%}
+.i3{background-color:black;color: white;width: 10%;
+padding: 15px;border-radius: 16px;margin-top: 30px; 
+border: none;}
+.i3:hover{ background-color: violet;cursor: pointer; }
